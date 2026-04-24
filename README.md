@@ -16,7 +16,7 @@ Halo! Saya **Asyraf Rais Fadhil**, mahasiswa **Teknik Informatika**
 Program Studi **D4 Teknologi Rekayasa Perangkat Lunak (TRPL)**  
 di **Politeknik Negeri Batam**.
 
-- 🎓 **Kelas**: TRPL 5A Malam  
+- 🎓 **Kelas**: TRPL 6A Malam  
 - 🏫 **Kampus**: POLITEKNIK NEGERI BATAM  
 - 📍 **Alamat**: VPA - Belian, Batam Kota, Kota Batam, Indonesia  
 
