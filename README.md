@@ -41,7 +41,7 @@ Saya memiliki ketertarikan pada pengembangan perangkat lunak, baik **Web**, **Mo
 
 ## 🌐 Media Sosial & Kontak
 <p align="center">
-  <a href="https://www.instagram.com/dulanran/" target="_blank">
+  <a href="https://www.instagram.com/trpl_4342311026/" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
   <a href="https://facebook.com/acak.adulan/" target="_blank">
