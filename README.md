@@ -26,7 +26,7 @@ Saya memiliki ketertarikan pada pengembangan perangkat lunak, baik **Web**, **Mo
 
 ## 🛠️ Teknologi yang Digunakan
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=php,python,javascript,laravel,dart,flutter,linux&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=php,python,javascript,dart,laravel,flutter,mysql,firebase,supabase,linux&theme=dark" />
 </p>
 
 ---
