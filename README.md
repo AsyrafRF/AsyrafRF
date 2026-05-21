@@ -26,7 +26,10 @@ Saya memiliki ketertarikan pada pengembangan perangkat lunak, baik **Web**, **Mo
 
 ## 🛠️ Teknologi yang Digunakan
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=php,py,js,dart,laravel,flutter,vite,nodejs,fastapi,pytorch,tensorflow,opencv,mysql,firebase,supabase,linux,raspberrypi,git,docker,nginx,cloudflare&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=php,py,js,dart,laravel,flutter,vite,nodejs,fastapi,pytorch,tensorflow,opencv,mysql,firebase,supabase&theme=dark" />
+</p>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=linux,raspberrypi,git,docker,nginx,cloudflare&theme=dark" />
 </p>
 
 ---
