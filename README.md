@@ -25,7 +25,7 @@ Saya memiliki ketertarikan pada pengembangan perangkat lunak, baik **Web**, **Mo
 <p align="left">
   <img src="https://img.shields.io/badge/Role-Fullstack Developer-3fb950"/>
   <img src="https://img.shields.io/badge/Stack-Laravel-f55247"/>
-  <img src="https://img.shields.io/badge/Workflow-Docker-0ea5e9"/>
+  <img src="https://img.shields.io/badge/Workflow-CI/CD-0ea5e9"/>
   <img src="https://img.shields.io/badge/status-Building SaaS-fdee00"/>
 </p>
 
