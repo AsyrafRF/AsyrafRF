@@ -69,7 +69,7 @@ Saya memiliki ketertarikan pada pengembangan perangkat lunak, baik **Web**, **Mo
 
 ## 📊 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AsyrafRF&show_icons=true&theme=tokyonight" height="165" />
+  <img src="https://github-readme-stats-fast.vercel.app/api?username=AsyrafRF&show_icons=true&theme=tokyonight" height="165" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=AsyrafRF&theme=tokyonight" height="165" />
 </p>
 
@@ -89,7 +89,7 @@ Saya memiliki ketertarikan pada pengembangan perangkat lunak, baik **Web**, **Mo
 
 ## 💻 Most Used Languages
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AsyrafRF&layout=compact&theme=tokyonight" />
+  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=AsyrafRF&layout=compact&theme=tokyonight" />
 </p>
 
 ## 🏅 Achievements
