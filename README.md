@@ -51,6 +51,9 @@ Saya memiliki ketertarikan pada pengembangan perangkat lunak, baik **Web**, **Mo
 
 ## 🌐 Media Sosial & Kontak
 <p align="center">
+  <a href="mailto:asrafrf@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Email-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
   <a href="https://www.instagram.com/trpl.4326/" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
@@ -59,9 +62,6 @@ Saya memiliki ketertarikan pada pengembangan perangkat lunak, baik **Web**, **Mo
   </a>
   <a href="https://x.com/acakadulan" target="_blank">
     <img src="https://img.shields.io/badge/X-%23000000.svg?&style=for-the-badge&logo=x&logoColor=white" />
-  </a>
-  <a href="https://www.linkedin.com/in/asyraf-rais-fadhil" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-%230A66C2.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
 </p>
 
