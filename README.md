@@ -3,7 +3,7 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1e3c72,100:2a5298&height=200&section=header&text=Asyraf%20Rais%20Fadhil&fontSize=40&fontColor=ffffff&animation=fadeIn" />
 </p>
 
-<h3 align="center">👨‍💻 Mahasiswa Teknik Informatika | Software Engineer Enthusiast</h3>
+<h3 align="center">👨‍💻 Informatics Engineering student | Software Engineer Enthusiast</h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?color=2A5298&size=22&center=true&vCenter=true&width=500&lines=Web+Developer;Mobile+Developer;IoT+Enthusiast;DevOps+Learner" />
@@ -11,16 +11,16 @@
 
 ---
 
-## 🚀 Tentang Saya
-Halo! Saya **Asyraf Rais Fadhil**, mahasiswa **Teknik Informatika**  
-Program Studi **D4 Teknologi Rekayasa Perangkat Lunak (TRPL)**  
-di **Politeknik Negeri Batam**.
+## 🚀 About Me
+Hello! I’m **Asyraf Rais Fadhil**, an **Informatics Engineering**  
+student in the **Applied Bachelor Program of Software Engineering Technology (TRPL)**  
+at **State Polytechnic of Batam**.
 
-- 🎓 **Kelas**: TRPL 6A Malam  
-- 🏫 **Kampus**: POLITEKNIK NEGERI BATAM  
-- 📍 **Alamat**: VPA - Belian, Batam Kota, Kota Batam, Indonesia  
+- 🎓 **Class**: TRPL 6A Evening Class 
+- 🏫 **Campus**: State Polytechnic of Batam  
+- 📍 **Address**: VPA - Belian, Batam Kota, Batam City, Riau Islands, Indonesia  
 
-Saya memiliki ketertarikan pada pengembangan perangkat lunak, baik **Web**, **Mobile**, **IoT**, hingga **Server & DevOps**.
+I have a strong interest in software development, including **Web Development**, **Mobile Dev**, **IoT**, as well as **Server & DevOps technologies**.
 
 <p align="left">
   <img src="https://img.shields.io/badge/Role-Fullstack Developer-3fb950"/>
@@ -31,7 +31,7 @@ Saya memiliki ketertarikan pada pengembangan perangkat lunak, baik **Web**, **Mo
 
 ---
 
-## 🛠️ Teknologi yang Digunakan
+## 🛠️ Technologies Used
 <p align="center">
   <img src="https://skillicons.dev/icons?i=php,py,js,dart,laravel,flutter,vite,nodejs,fastapi,pytorch,tensorflow,opencv,mysql,firebase,supabase&theme=dark" />
 </p>
@@ -41,7 +41,7 @@ Saya memiliki ketertarikan pada pengembangan perangkat lunak, baik **Web**, **Mo
 
 ---
 
-## 💡 Keahlian
+## 💡 Skills
 - 🌐 Web Development  
 - 📱 Mobile Development  
 - 🤖 Internet of Things (IoT)  
