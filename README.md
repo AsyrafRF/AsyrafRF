@@ -12,8 +12,8 @@
 ---
 
 ## 🚀 About Me
-Hello! I’m **Asyraf Rais Fadhil**, an **Informatics Engineering**  
-student in the **Applied Bachelor Program of Software Engineering Technology (TRPL)**  
+Hello! I’m **Asyraf Rais Fadhil**, an **Informatics Engineering** student 
+in the **Applied Bachelor Program of Software Engineering Technology (TRPL)**
 at **State Polytechnic of Batam**.
 
 - 🎓 **Class**: TRPL 6A Evening Class 
