@@ -77,7 +77,7 @@ I have a strong interest in software development, including **Web Development**,
 
 ## 🏆 GitHub Trophies
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=AsyrafRF&theme=darkhub&no-frame=true&row=1" />
+  <img src="https://github-trophies.vercel.app/?username=AsyrafRF&theme=onedark" />
 </p>
 
 ---
