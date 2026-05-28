@@ -3,7 +3,7 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1e3c72,100:2a5298&height=200&section=header&text=Asyraf%20Rais%20Fadhil&fontSize=40&fontColor=ffffff&animation=fadeIn" />
 </p>
 
-<h3 align="center">👨‍💻 Informatics Engineering student | Software Engineer Enthusiast</h3>
+<h3 align="center">👨‍💻 Informatics student | Software Engineer Enthusiast</h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?color=2A5298&size=22&center=true&vCenter=true&width=500&lines=Web+Developer;Mobile+Developer;IoT+Enthusiast;DevOps+Learner" />
