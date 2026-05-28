@@ -49,7 +49,7 @@ I have a strong interest in software development, including **Web Development**,
 
 ---
 
-## 🌐 Media Sosial & Kontak
+## 🌐 Social Media & Contact
 <p align="center">
   <a href="mailto:asrafrf@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Email-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" />
