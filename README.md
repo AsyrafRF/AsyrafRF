@@ -84,7 +84,7 @@ I have a strong interest in software development, including **Web Development**,
 
 ## 📈 Contribution Graph
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=AsyrafRF&theme=tokyo-night&hide_border=true" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=AsyrafRF&theme=tokyo-night&hide_border=true&area=true" />
 </p>
 
 ## 💻 Most Used Languages
