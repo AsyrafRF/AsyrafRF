@@ -16,7 +16,7 @@ Hello! I’m **Asyraf Rais Fadhil**, an **Informatics Engineering** student
 in the **Applied Bachelor Program of Software Engineering Technology ([TRPL](https://if.polibatam.ac.id/teknologi-rekayasa-perangkat-lunak/))**
 at **State Polytechnic of Batam**.
 
-- 🎓 **Class**: TRPL 6A Evening Class 
+- 🎓 **Class**: TRPL 7A Evening Class 
 - 🏫 **Campus**: State Polytechnic of Batam ([Polibatam](https://polibatam.ac.id/))
 - 📍 **Address**: VPA - Belian, Batam Kota, Batam City, Riau Islands, Indonesia  
 
