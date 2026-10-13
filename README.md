@@ -87,14 +87,6 @@ I have a strong interest in software development, including **Web Development**,
   <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=AsyrafRF&layout=compact&theme=nord" />
 </p>
 
-## 🏅 Achievements
-<p align="center">
-  <img src="https://img.shields.io/badge/Open%20Source-Enthusiast-0390fc?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Web%20Developer-Active-success?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Mobile%20Developer-Flutter-informational?style=for-the-badge" />
-  <img src="https://komarev.com/ghpvc/?username=AsyrafRF&color=green&abbreviated=true&style=for-the-badge">
-</p>
-
 ## ✨ Quote
 <p align="center">
   <em>"Coding feels like solving a mystery — understand the problem, and the solution will reveal itself."</em>
