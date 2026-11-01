@@ -67,9 +67,40 @@ I have a strong interest in software development, including **Web Development**,
 
 ---
 
+## 📊 GitHub Stats
+<p align="center">
+  <img src="https://ghstats.dev/api/card?username=asyrafrf&theme=nord&border_radius=8.5" alt="GitHub Stats Card" />
+</p>
+
+---
+
 ## 🏆 GitHub Trophies
 <p align="center">
   <img src="https://github-trophies.vercel.app/?username=AsyrafRF&theme=nord" />
+</p>
+
+---
+
+## 📈 Contribution Graph
+<p align="center">
+  <img src="https://ghstats.dev/api/sparkline?username=asyrafrf&theme=nord&days=30&width=320&height=80" alt="Contribution Sparkline" />
+</p>
+<p align="center">
+  <img src="https://ghstats.dev/api/mini?username=asyrafrf&theme=ocean&metric=contributions&style=plastic" alt="GitHub Mini Badge" />
+</p>
+
+## 💻 Most Used Languages
+<p align="center">
+  <img src="https://ghstats.dev/api/langs?username=asyrafrf&theme=nord&max_langs=12&layout=donut" alt="Top Languages" />
+</p>
+
+## 🏅 Achievements
+<p align="center">
+  <img src="https://img.shields.io/badge/Open%20Source-Enthusiast-0390fc?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Web%20Developer-Active-success?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Mobile%20Developer-Flutter-informational?style=for-the-badge" />
+  <img src="https://komarev.com/ghpvc/?username=AsyrafRF&color=green&abbreviated=true&style=for-the-badge">
+  <img src="https://ghstats.dev/api/mini?username=asyrafrf&theme=nord&metric=contributions&style=for-the-badge" alt="GitHub Mini Badge" />
 </p>
 
 ## ✨ Quote
