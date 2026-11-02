@@ -100,7 +100,6 @@ I have a strong interest in software development, including **Web Development**,
   <img src="https://img.shields.io/badge/Web%20Developer-Active-success?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Mobile%20Developer-Flutter-informational?style=for-the-badge" />
   <img src="https://komarev.com/ghpvc/?username=AsyrafRF&color=green&abbreviated=true&style=for-the-badge">
-  <img src="https://ghstats.dev/api/mini?username=asyrafrf&theme=nord&metric=contributions&style=for-the-badge" alt="GitHub Mini Badge" />
 </p>
 
 ## ✨ Quote
