@@ -69,7 +69,8 @@ I have a strong interest in software development, including **Web Development**,
 
 ## 📊 GitHub Stats
 <p align="center">
-  <img src="https://ghstats.dev/api/card?username=asyrafrf&theme=nord&border_radius=8.5" alt="GitHub Stats Card" />
+  <img src="https://github-readme-stats-fast.vercel.app/api?username=AsyrafRF&show_icons=true&theme=nord" height="165" />
+  <img src="https://github-readme-stats-fast.vercel.app/api/streak?username=AsyrafRF&theme=nord" height="165" />
 </p>
 
 ---
