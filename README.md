@@ -88,7 +88,7 @@ I have a strong interest in software development, including **Web Development**,
 
 ## 💻 Most Used Languages
 <p align="center">
-  <img src="https://ghstats.dev/api/langs?username=asyrafrf&theme=nord&max_langs=12&layout=donut" alt="Top Languages" />
+  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs?username=AsyrafRF&layout=compact&theme=nord" alt="Top Languages" />
 </p>
 
 ## 🏅 Achievements
