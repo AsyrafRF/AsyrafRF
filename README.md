@@ -83,10 +83,7 @@ I have a strong interest in software development, including **Web Development**,
 
 ## 📈 Contribution Graph
 <p align="center">
-  <img src="https://ghstats.dev/api/sparkline?username=asyrafrf&theme=nord&days=30&width=320&height=80" alt="Contribution Sparkline" />
-</p>
-<p align="center">
-  <img src="https://ghstats.dev/api/mini?username=asyrafrf&theme=ocean&metric=contributions&style=plastic" alt="GitHub Mini Badge" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=AsyrafRF&theme=nord&hide_border=true&area=true" alt="Contribution Graph" />
 </p>
 
 ## 💻 Most Used Languages
